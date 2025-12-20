@@ -29,7 +29,7 @@ def send(cc, last, username, time_taken):
 
 <b>RESPONSE</b> ⌁ {last}
 
-<b>BIN</b> ⌁ {ii} {dicr.upper()} - {typ.upper()}
+<b>BIN</b> ⌁ {ii} - {dicr.upper()} - {typ.upper()}
 <b>BANK</b> ⌁ {bank.upper()}  
 <b>COUNTRY</b> ⌁ {do.upper()} {emj}              
 
