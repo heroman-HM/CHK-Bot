@@ -50,8 +50,8 @@ def check_card(message):
         elif "insufficient funds" in last:
             last = 'INSUFFICIENT_FUNDS 🍃'
         else:
-            print(last)
-            #last = 'Declined'
+            #print(last)
+            last = 'Declined'
 
         time_taken = round(time.time() - start_time, 2)
 
